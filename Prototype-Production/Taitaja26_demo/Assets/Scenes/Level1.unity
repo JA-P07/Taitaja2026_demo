@@ -923,7 +923,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -67740,7 +67740,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4108297465972337179, guid: 10aade54bf0426a4a995e526173b350c, type: 3}
       propertyPath: m_IncludeLayers.m_Bits
-      value: 0
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 5669524771996525656, guid: 10aade54bf0426a4a995e526173b350c, type: 3}
       propertyPath: m_LocalScale.x
